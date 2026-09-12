@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <OutputPath>bin/ReleaseApp/$(Configuration)/</OutputPath>
+    <Version>1.0.1</Version>
+    <Product>ThumbPilot</Product>
+    <ApplicationIcon>Assets/ThumbPilot.ico</ApplicationIcon>
+    <Authors>Deboraj</Authors>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  <ItemGroup><Compile Remove="tests/**/*.cs" /></ItemGroup>
+  <ItemGroup><EmbeddedResource Include="Assets/ThumbPilot.ico" LogicalName="ThumbPilot.AppIcon" /></ItemGroup>
+</Project>

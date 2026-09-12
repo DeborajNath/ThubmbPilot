@@ -1,0 +1,14 @@
+<resources>
+    <style name="ForestTheme" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#BCE99B</item>
+        <item name="android:windowBackground">#101714</item>
+        <item name="android:colorBackground">#101714</item>
+        <item name="android:statusBarColor">#101714</item>
+        <item name="android:navigationBarColor">#101714</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+        <item name="android:textColorPrimary">#E5EEE7</item>
+        <item name="android:textColorSecondary">#96AA9C</item>
+    </style>
+</resources>

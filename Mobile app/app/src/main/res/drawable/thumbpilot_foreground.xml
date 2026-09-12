@@ -1,0 +1,3 @@
+<inset xmlns:android="http://schemas.android.com/apk/res/android" android:inset="12dp">
+    <bitmap android:src="@drawable/thumbpilot" android:gravity="fill" android:filter="true" />
+</inset>
