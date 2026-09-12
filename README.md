@@ -1,7 +1,6 @@
 # ThumbPilot
 
-Personal Android-to-Windows remote touchpad, keyboard and media control over the local network. Developed by Deboraj.
-
+Personal Android-to-Windows remote touchpad, keyboard and media control over the local network.
 ## Run it
 
 The `releases` folder contains the latest Android APK, portable Windows ZIP and upgrade guide. Extract the complete Windows ZIP and double-click `ThumbPilot.exe`. Enable Start with Windows if desired. Closing the window keeps it in the tray; right-click the tray icon and choose Exit to stop it.
